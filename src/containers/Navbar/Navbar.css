@@ -1,0 +1,10 @@
+.navbar {
+  position: relative;
+  background-color: #2b2b2f;
+}
+.navbar .navbar-header {
+  float: left;
+}
+.navbar .navbar-nav {
+  float: right;
+}

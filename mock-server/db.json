@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 10,
+        "product": "Parafuso",
+        "quantity": "3"
+      },
+      {
+        "id": 11,
+        "product": "Biboca da Parafuseta",
+        "quantity": "2"
+      },
+      {
+        "id": 12,
+        "product": "Porca",
+        "quantity": "5"
+      }
+    ]
+  }

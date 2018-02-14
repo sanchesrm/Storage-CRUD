@@ -1,0 +1,22 @@
+.table-responsive {
+  margin-top: 2rem;
+}
+.table .table-qtd {
+  width: 50px;
+}
+.table tr > *:nth-child(2) {
+  width: 130px;
+}
+.table tbody tr {
+  height: 60px;
+}
+.table tbody tr td {
+  line-height: 55px !important;
+}
+.table tbody tr td .input-group {
+  padding-top: 10px;
+}
+.modal-content .modal-body .row {
+  padding-top: 15px;
+  margin: 0px;
+}
